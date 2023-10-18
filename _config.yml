@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/minimal"
+theme: jekyll-theme-minimal
 title: Siddharth Lotia
 description: Research Fellow, IIIT Bangalore
 
