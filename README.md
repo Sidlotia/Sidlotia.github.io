@@ -1,4 +1,4 @@
-# Sidlotia.github.io
+
 ## Siddharth Lotia
 - **B.Tech - Electronics and Communication Engineering**
 - International Institute of Information Technology, Naya Raipur (IIIT-NR)
