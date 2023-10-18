@@ -50,7 +50,7 @@
   - Criminal tendency in a person is detected with the help of semantic/facial analysis using various deep learning model architectures.
   - [Research Paper](https://ieeexplore.ieee.org/document/9293926) Published in this work: "Convolutional Neural Network Based Criminal Detection Technique" at IEEE TENCON Japan 2020.
 
-  -**Generative Text from Emoji**
+- **Generative Text from Emoji**
    -It was a real-life industry-based problem statement by Samsung R&D Institute Bangalore. We created a data set of more than 6,000 texts with six emojis, and we used the Sequence to Sequence model to extract meaningful sentences from it.
 
 ### TECHNICAL SKILLS
