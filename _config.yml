@@ -1,4 +1,13 @@
-theme: jekyll-theme-minimal
 title: Siddharth Lotia
-description: Research Fellow, IIIT Bangalore
-
+logo: "/me1_1.png"
+description: >
+  <br>
+ Research Fellow | IIIT Bangalore
+  <br>
+  <a href="https://www.linkedin.com/in/siddharth-lotia04/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:siddharthlotia04@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+theme: jekyll-theme-minimal
