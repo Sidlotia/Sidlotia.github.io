@@ -26,7 +26,7 @@
   - Worked on ARM Processor, I2C programming, and used CMake and MakeFile of the Build Systems.
   - Worked on Embedded Programming, which helped in Bluetooth Low Energy Advertisement System.
 
-- **[Research paper]("https://ieeexplore.ieee.org/document/9118039") Published in this work**: "On Achieving Hidden Markov Model Estimation Freshness in Sensor Networks" at IEEE ANTS Goa, India 2019.
+- **[Research paper](https://ieeexplore.ieee.org/document/9118039) Published in this work**: "On Achieving Hidden Markov Model Estimation Freshness in Sensor Networks" at IEEE ANTS Goa, India 2019.
 
 ### EDUCATION
 - **B.Tech, IIIT Naya Raipur**
@@ -48,14 +48,14 @@
 
 - **Convolutional Neural Network-based Criminal Detection System**
   - Criminal tendency in a person is detected with the help of semantic/facial analysis using various deep learning model architectures.
-  - [Research Paper]("https://ieeexplore.ieee.org/document/9293926") Published in this work: "Convolutional Neural Network Based Criminal Detection Technique" at IEEE TENCON Japan 2020.
+  - [Research Paper](https://ieeexplore.ieee.org/document/9293926) Published in this work: "Convolutional Neural Network Based Criminal Detection Technique" at IEEE TENCON Japan 2020.
 
   -**Generative Text from Emoji**
    -It was a real-life industry-based problem statement by Samsung R&D Institute Bangalore. We created a data set of more than 6,000 texts with six emojis, and we used the Sequence to Sequence model to extract meaningful sentences from it.
 
 ### TECHNICAL SKILLS
 - **Languages**: Embedded C Programming, MATLAB, Verilog, Python, C++
-- **Software Skills**: Cloud Computing ([AWS]("https://drive.google.com/file/d/1esZ6yZ22EPezTeGqYXktSnrvD_saQj9z/view")), Deep Learning Applications, IoT applications, Embedded Systems
+- **Software Skills**: Cloud Computing ([AWS](https://drive.google.com/file/d/1esZ6yZ22EPezTeGqYXktSnrvD_saQj9z/view)), Deep Learning Applications, IoT applications, Embedded Systems
 - **Microcontrollers/Boards**: Arduino, Raspberry Pi, ESP8266 (Node MCU)
 
 ### POSITIONS OF RESPONSIBILITY
@@ -70,6 +70,6 @@
 
 ### ACHIEVEMENTS
 - Awarded the Prestigious AICTE-Mitacs Globalink Research Internship 2021 by Mitacs Canada at ETS Montréal, Canada.
-- Recognized by the Ministry of Education, Govt of India for the above achievement.([tweet link]("https://twitter.com/EduMinOfIndia/status/1377589279493267458"))
+- Recognized by the Ministry of Education, Govt of India for the above achievement.([tweet link](https://twitter.com/EduMinOfIndia/status/1377589279493267458))
 - Finalist of Samsung Prism (by Samsung Research Institute Bangalore) Hackathon Codefest 1.0.
 
