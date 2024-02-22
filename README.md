@@ -5,7 +5,7 @@
 - Phone: +91-9406020745
 - Email: siddharthlotia04@gmail.com, siddharth.lotia@iiitb.ac.in
 - [LinkedIn](https://www.linkedin.com/in/siddharth-lotia04/)
-  
+- [Resume] (https://drive.google.com/file/d/1qsudEdy4vDgvysxVrdioWIdEJ5ODfVkF/view?usp=sharing) 
 
 ### EXPERIENCE
 - **Junior Research Fellow, MINRO, IIIT Bangalore** (Jul 2023 – Ongoing)
